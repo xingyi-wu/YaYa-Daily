@@ -25,5 +25,5 @@ A simple time management app. Available in Chinese and English.
   </tr>
 </table>
 
-## App Preview
+## Tips
 More resources: https://xingyi-wu.github.io/resources.html
