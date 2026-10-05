@@ -1,5 +1,6 @@
 # YaYa Daily · 芽芽日常
 
+<img src="app-icon.png" width="100" alt="YaYa Daily app icon">
 A simple time management app. Available in Chinese and English.
 
 **Version:** 0.6.4 · Android
