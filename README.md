@@ -24,3 +24,6 @@ A simple time management app. Available in Chinese and English.
     <td align="center">Health</td>
   </tr>
 </table>
+
+## App Preview
+More resources: https://xingyi-wu.github.io/resources.html
