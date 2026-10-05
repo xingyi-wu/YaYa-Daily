@@ -10,11 +10,11 @@ A simple time management app. Available in Chinese and English.
 
 <table>
   <tr>
-    <td><img src="images/preview-01.jpg" width="180" alt="Schedule view 1"></td>
-    <td><img src="images/preview-02.jpg" width="180" alt="Schedule view 2"></td>
-    <td><img src="images/preview-1.jpg" width="180" alt="Schedule view 3"></td>
-    <td><img src="images/preview-2.jpg" width="180" alt="Time Axis"></td>
-    <td><img src="images/preview-3.jpg" width="180" alt="Health"></td>
+    <td><img src="preview-01.jpg" width="180" alt="Schedule view 1"></td>
+    <td><img src="preview-02.jpg" width="180" alt="Schedule view 2"></td>
+    <td><img src="preview-1.jpg" width="180" alt="Schedule view 3"></td>
+    <td><img src="preview-2.jpg" width="180" alt="Time Axis"></td>
+    <td><img src="preview-3.jpg" width="180" alt="Health"></td>
   </tr>
   <tr>
     <td align="center">Schedule</td>
